@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/BidEaze/bideaze.git/static/css/main.c140cab8.css",
+    "main.js": "/BidEaze/bideaze.git/static/js/main.b6396c6b.js",
+    "static/media/cableinfo.png": "/BidEaze/bideaze.git/static/media/cableinfo.1950d8c9cb154289bf03.png",
+    "static/media/brand-icons.svg": "/BidEaze/bideaze.git/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/BidEaze/bideaze.git/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/cablechat.png": "/BidEaze/bideaze.git/static/media/cablechat.394674cff9080c458ba5.png",
+    "static/media/outline-icons.svg": "/BidEaze/bideaze.git/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/BidEaze/bideaze.git/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/BidEaze/bideaze.git/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/BidEaze/bideaze.git/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/BidEaze/bideaze.git/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/pega-icons.woff": "/BidEaze/bideaze.git/static/media/pega-icons.a3939b8d6d1721b12fe4.woff",
+    "static/media/brand-icons.woff": "/BidEaze/bideaze.git/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/pega-icons.woff2": "/BidEaze/bideaze.git/static/media/pega-icons.06906d8da80779fad7c4.woff2",
+    "static/media/brand-icons.woff2": "/BidEaze/bideaze.git/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/BidEaze/bideaze.git/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/BidEaze/bideaze.git/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/BidEaze/bideaze.git/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/BidEaze/bideaze.git/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/BidEaze/bideaze.git/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/outline-icons.woff": "/BidEaze/bideaze.git/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/BidEaze/bideaze.git/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "static/media/antenna.svg": "/BidEaze/bideaze.git/static/media/antenna.2d2acdb3e8f7f6baa76cf55831c272d9.svg",
+    "static/media/antenna.svg.gz": "/BidEaze/bideaze.git/static/media/antenna.svg.ac4edbb2f4f8259c88d9.gz",
+    "static/media/antenna.svg.br": "/BidEaze/bideaze.git/static/media/antenna.svg.19ecbb5bd7da6093bc75.br",
+    "index.html": "/BidEaze/bideaze.git/index.html",
+    "main.c140cab8.css.map": "/BidEaze/bideaze.git/static/css/main.c140cab8.css.map",
+    "main.b6396c6b.js.map": "/BidEaze/bideaze.git/static/js/main.b6396c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c140cab8.css",
+    "static/js/main.b6396c6b.js"
+  ]
+}
