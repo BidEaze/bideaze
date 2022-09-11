@@ -352,7 +352,7 @@ class Worklist extends Component {
       <div>
         <Grid>
           <Grid.Column as="h5" width={4} textAlign="left">
-            <Button basic color="red" icon labelPosition="left" size="large"
+            <Button basic color="teal" icon labelPosition="left" size="large"
               onClick={e => this.getNextAssignment()}
               loading={this.state.loading}>
               <Icon name="plus" />
