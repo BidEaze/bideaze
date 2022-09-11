@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bideaze/static/css/main.6e4bda79.css",
+    "main.css": "/bideaze/static/css/main.1f94c410.css",
     "main.js": "/bideaze/static/js/main.46050da6.js",
     "static/media/cableinfo.png": "/bideaze/static/media/cableinfo.1950d8c9cb154289bf03.png",
     "static/media/brand-icons.svg": "/bideaze/static/media/brand-icons.6729d29753e000c17489.svg",
@@ -26,11 +26,11 @@
     "static/media/antenna.svg.gz": "/bideaze/static/media/antenna.svg.ac4edbb2f4f8259c88d9.gz",
     "static/media/antenna.svg.br": "/bideaze/static/media/antenna.svg.19ecbb5bd7da6093bc75.br",
     "index.html": "/bideaze/index.html",
-    "main.6e4bda79.css.map": "/bideaze/static/css/main.6e4bda79.css.map",
+    "main.1f94c410.css.map": "/bideaze/static/css/main.1f94c410.css.map",
     "main.46050da6.js.map": "/bideaze/static/js/main.46050da6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e4bda79.css",
+    "static/css/main.1f94c410.css",
     "static/js/main.46050da6.js"
   ]
 }
