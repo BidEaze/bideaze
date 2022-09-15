@@ -99,7 +99,7 @@ class AppHeader extends Component {
           <Input ref={this.rightPanelSection} style={{paddingLeft:"1em"}} value={this.state.rightPanelSection}/><br />
         <Checkbox ref={this.checkboxSaveButton} label="Show Save action" defaultChecked={this.props.appSettings.bSaveButton} /><br />
         <Checkbox ref={this.checkboxShowWorkbaskets} label="Show Workgroup Workbaskets" defaultChecked={this.props.appSettings.bshowWorkgroupBaskets} /><br />
-        <Checkbox ref={this.checkboxShowAttachments} label="Show Attachments" checked} />
+        <Checkbox ref={this.checkboxShowAttachments} label="Show Attachments" checked/>
         </Grid.Column>
         </Grid.Row>
       </Grid>
